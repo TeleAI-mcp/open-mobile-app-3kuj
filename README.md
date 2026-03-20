@@ -1,2 +1,3 @@
-# open-mobile-app-3kuj
-Automated issue comment bot repository
+# Open Mobile App 3Kuj
+
+Automated issue comment bot repository.
